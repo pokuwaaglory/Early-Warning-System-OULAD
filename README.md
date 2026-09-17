@@ -1,7 +1,7 @@
 # Early-Warning-System-OULAD
 An automated machine learning pipeline using the Open University Learning Analytics Dataset (OULAD) to identify at-risk students and drive early academic intervention.
 
-# Student Early Warning System: Machine Learning for Academic Risk Detection
+## Student Early Warning System: Machine Learning for Academic Risk Detection
 
 An automated system that analyzes online learning behavior and assessment results to identify struggling students early, allowing educators to step in before students fall behind or drop out.
 
